@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Kid Car Seat Neckpillow",
+    "price": "$24.99",
+    "image": "./assets/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kitty Nightlamp",
+    "price": "$150",
+    "image": "./assets/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Navy Blue Neckpillow",
+    "price": "$15",
+    "image": "./assets/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Coral Necklace",
+    "price":"$15.99",
+    "image": "./assets/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dervy Nightlamp",
+    "price": "$20",
+    "image": "./assets/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "White Travel Neckpillow",
+    "price": "$27.99",
+    "image": "./assets/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fruity Neckpillow",
+    "price": "$17",
+    "image": "./assets/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sisterhood Necklace",
+    "price": "$100",
+    "image": "./assets/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ring Necklace",
+    "price": "$30",
+    "image": "./assets/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Alphabet Necklace",
+    "price": "$20",
+    "image": "./assets/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sleepy Whale Nightlamp",
+    "price": "$25",
+    "image": "./assets/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Star Nightlamp",
+    "price": "$30",
+    "image": "./assets/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Swarovski Infinity Necklace",
+    "price": "$225",
+    "image": "./assets/13.jpg"
+  }
+]
